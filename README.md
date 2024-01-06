@@ -5,12 +5,16 @@ Many individuals are willing to contribute to charitable causes and support envi
 Earth Crafter is an all-in-one platform focused on facilitating charitable donations and supporting environmentally friendly practices.
 
 1. **Doorstep Collection Scheduling**: The app provides a user-friendly interface that allows individuals to easily schedule pickups for donations of food and clothes. Users can select a convenient time for collection, making it hassle-free to contribute to charitable causes.
+ 
 2. **Hassle-Free Donations**: By enabling donations directly from users' doorsteps, the app streamlines the process of making a positive impact on the environment. This convenience encourages more people to participate in charitable activities without any added stress or inconvenience.
+   
 3. **Cowtopia**: It is an online marketplace offering various products like milk, agarbattis (incense sticks), and potentially more, aimed at supporting goshalas (cow shelters). Users can purchase these products, knowing that their contributions are helping to support and sustain these shelters.
 
 # Prototype of Earth Crafter
 
 # Impact
-1.** Environmental Benefits**: By streamlining the donation process, the solution encourages more people to participate in charitable actions without added hassle. This ease of donation could lead to a greater reduction in waste and an increase in the reuse of items, positively impacting the environment.
+1.**Environmental Benefits**: By streamlining the donation process, the solution encourages more people to participate in charitable actions without added hassle. This ease of donation could lead to a greater reduction in waste and an increase in the reuse of items, positively impacting the environment.
+
 2. **Support for Goshalas**: The creation of an online store, "Cowtopia," dedicated to goshalas' products like milk and agarbattis, offers a sustainable avenue for supporting these shelters. It could potentially boost their revenue streams and aid in the upkeep and welfare of the cows in their care.
+   
 3. **Reusing of product**: The donation of clothes like curtains, leftover cloth pieces, etc. help in reusing of products which could be used for supporting the animals and goshalas.
