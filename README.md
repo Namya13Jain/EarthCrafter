@@ -13,7 +13,7 @@ Earth Crafter is an all-in-one platform focused on facilitating charitable donat
 # Prototype of Earth Crafter
 
 # Impact
-1.**Environmental Benefits**: By streamlining the donation process, the solution encourages more people to participate in charitable actions without added hassle. This ease of donation could lead to a greater reduction in waste and an increase in the reuse of items, positively impacting the environment.
+1. **Environmental Benefits**: By streamlining the donation process, the solution encourages more people to participate in charitable actions without added hassle. This ease of donation could lead to a greater reduction in waste and an increase in the reuse of items, positively impacting the environment.
 
 2. **Support for Goshalas**: The creation of an online store, "Cowtopia," dedicated to goshalas' products like milk and agarbattis, offers a sustainable avenue for supporting these shelters. It could potentially boost their revenue streams and aid in the upkeep and welfare of the cows in their care.
    
