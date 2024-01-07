@@ -11,6 +11,9 @@ Earth Crafter is an all-in-one platform focused on facilitating charitable donat
 3. **Cowtopia**: It is an online marketplace offering various products like milk, agarbattis (incense sticks), and potentially more, aimed at supporting goshalas (cow shelters). Users can purchase these products, knowing that their contributions are helping to support and sustain these shelters.
 
 # Prototype of Earth Crafter
+<a href="https://www.figma.com/proto/3yweULUXZpHhHyKPIEbuTO/Earth-Crafter?type=design&node-id=1-2&t=1yezHK5wjYzFaCOS-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="50" height="50">
+</a>
 
 # Impact
 1. **Environmental Benefits**: By streamlining the donation process, the solution encourages more people to participate in charitable actions without added hassle. This ease of donation could lead to a greater reduction in waste and an increase in the reuse of items, positively impacting the environment.
